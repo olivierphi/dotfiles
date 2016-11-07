@@ -1,0 +1,10 @@
+# PHPStorm and other IntelliJ products project folder
+.idea/
+
+# Some OS-specific stuff
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
