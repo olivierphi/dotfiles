@@ -13,6 +13,7 @@
 
 [alias]
     st = status
+    sw = switch
     co = checkout
     please = push --force-with-lease
     poupoule = pull --rebase
